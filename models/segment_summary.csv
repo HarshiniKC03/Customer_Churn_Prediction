@@ -1,0 +1,5 @@
+Cluster,Segment_Name,Customer_Count,Avg_Tenure,Avg_Monthly_Charges,Churn_Rate
+0,"Low Spending, New Customers (Budget Starters)",1732,10.487875288683602,32.47069861431871,0.2453810623556582
+1,"High Spending, Long-Term (Loyal Champions)",1952,58.74897540983606,93.01962090163934,0.15625
+2,"High Spending, Short-Term (High Risk Vulnerables)",2204,14.81125226860254,81.21590290381125,0.49183303085299457
+3,"Low Spending, Long-Term (Steady Traditionalists)",1155,54.11515151515152,34.02874458874459,0.047619047619047616
